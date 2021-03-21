@@ -1,9 +1,4 @@
-<p>👋 Hi, I’m @aki-nori</p>
+👋 Hi, I’m @aki-nori
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aki-nori&count_private=true&show_icons=true" />
-</a>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aki-nori&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aki-nori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aki-nori)](https://github.com/anuraghazra/github-readme-stats)
